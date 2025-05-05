@@ -1,1 +1,2 @@
 # Scoring-Compound-v2-wallets.
+# This project develops an AI-powered decentralized credit scoring system for wallets on the Compound V2 protocol. By analyzing transaction data, including deposit amounts, transaction counts, and asset diversity, it calculates a credit score for each wallet. The results are compiled into an HTML report and converted to a downloadable PDF, providing insights into high and low-scoring wallets based on their activity.
